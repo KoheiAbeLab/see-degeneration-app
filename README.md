@@ -44,12 +44,12 @@ Clone the repository and run the visualizer:
 ```bash
 git clone https://github.com/KoheiAbeLab/see-degeneration-app
 cd see-degeneration-app
-python see-degeneration-app.py
+python see_degeneration_app.py
 ```
 
 ## Usage
 Run the visualizer:
-python see-degeneration-app.py
+python see_degeneration_app.py
 
 Controls:
 Slider n → change the order of the derivative
@@ -57,7 +57,7 @@ The left panel updates equations and kinematic interpretation automatically
 The right panel shows derivative directions spaced by θ in the complex plane
 
 ## File Structure
-see-degeneration-app.py — main visualization script
+see_degeneration_app.py — main visualization script
 README.md — description and documentation
 
 ## Citation
