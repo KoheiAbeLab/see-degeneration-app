@@ -1,4 +1,4 @@
-# Spiral Exponential Degeneration Visualizer
+# SEE Degeneration App
 Interactive Degeneration Viewer for the Spiral Exponential Equation
 
 This repository provides an interactive Python-based visualizer for exploring
@@ -11,12 +11,13 @@ This tool provides an intuitive way to understand how higher-order derivative
 structures collapse and how kinematic behavior emerges from the degeneration
 process.
 
+<img width="1200" height="500" alt="SEE_Degeneration_(Kinematic_Dictionary)" src="https://github.com/user-attachments/assets/3f8e77ea-0897-4f03-9515-b9340df8bb28" />
 
 ## Features
 Interactive control of the derivative order n (1 ≤ n ≤ 10).
 Automatic computation of the degeneration angle θ = π / (2n).
 Display of the Spiral Exponential Equation:
-f^(n)(t) = e^(i n θ) f(t).
+f^(n)(t) = e^(inθ) f(t).
 Display of the degenerate (real) form:
 f^(n)(t) = cos(nθ) f(t).
 Automatic derivation of the final degenerate equation:
