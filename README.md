@@ -62,7 +62,7 @@ README.md — description and documentation
 
 ## Citation
 Kohei Abe,
-“See Degeneration App”,
+“SEE Degeneration App”,
 GitHub repository,
 https://github.com/KoheiAbeLab/see-degeneration-app
 
