@@ -70,7 +70,7 @@ https://github.com/KoheiAbeLab/see-degeneration-app
 ```bibtex
 @misc{abe2025_spiraldegeneration,
   author       = {Kohei Abe},
-  title        = {See Degeneration App},
+  title        = {SEE Degeneration App},
   year         = {2025},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/KoheiAbeLab/see-degeneration-app}}
